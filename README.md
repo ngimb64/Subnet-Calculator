@@ -1,5 +1,5 @@
 # Subnet Calculator
-![alt text](https://github.com/ngimb64/Subnet-Calculator/blob/master/image.jpg?raw=true)
+![alt text](https://github.com/ngimb64/Subnet-Calculator/blob/master/SubnetCalculator.png?raw=true)
 
 ## Purpose
 > This program prompts the user to enter two IP addresses and a corresponding subnet mask.
