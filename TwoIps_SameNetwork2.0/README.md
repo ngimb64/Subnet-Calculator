@@ -2,9 +2,11 @@
 > This program runs on Windows and Linux, made with Python 3.8
 > The program should be in the same directory as the InputModule.py file.
 > This module is imported to control the users input for purposes of error handling.
-> Run setup.py <env name> to build virtual environment.
-> Once virtual env is built traverse to the Scripts directory in the environment folder just created.
-> In the Scripts directory, execute the "activate" script to activate the virtual environment.
+
+## Installation
+- Run setup.py <env name> to build virtual environment.
+- Once virtual env is built traverse to the Scripts directory in the environment folder just created.
+- In the Scripts directory, execute the "activate" script to activate the virtual environment.
 
 ## Purpose
 > The program is designed to determine if two IP addresses are on the same subnet.
