@@ -4,7 +4,11 @@
 > This module is imported to control the users input for purposes of error handling.
 
 ## Installation
-- Run setup.py <env name> to build virtual environment.
+- Run the setup.py script to build a virtual environment and install all external packages in the created venv.
+
+> Example:<br>
+> python3 setup.py "venv name"
+
 - Once virtual env is built traverse to the Scripts directory in the environment folder just created.
 - In the Scripts directory, execute the "activate" script to activate the virtual environment.
 
